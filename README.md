@@ -5,21 +5,21 @@ I am very interested in Web and Blockchain industry as a fullstack developer
 <br />
 
 ### ⚡ Languages and Tools:
-• Languages
+#### • Languages
 ECMAScript (ES6), JavaScript, CSS3, C++, HTML5, TypeScript, GraphQL, Sass, CSS, PHP, Python, SQL, Bash, Golang
-• Frameworks
+#### • Frameworks
 .NET, Nuxt, Next, Redux, React Native, Laravel, GIN, Hibernate, Spring, Express.js, Django
-• Libraries/APIs
+#### • Libraries/APIs
 React, Redux-Saga, Vue, Sinon.JS, D3.js, REST APIs, Immutable.js, jQuery, Chai, Flexbox, Node.js
-• Tools
+#### • Tools
 NPM, Mocha, PostCSS, Webpack, Grunt, Webpack 2, Git
-• Other
+#### • Other
 Web Development, Front-end Development, Embedded Software, Linux Servers, Ethereum Smart Contracts, Enzyme, Web UX, DNS Configuration, Content Delivery Networks (CDN), SVG, WebSockets
-• Platforms
+#### • Platforms
 Ethereum, Visual Studio Code, Windows, WordPress, Blockchain, DigitalOcean, Docker, Linux, Firebase
-• Paradigms
+#### • Paradigms
 Agile Software Development, Functional Programming, Scrum, Agile
-• Storage
+#### • Storage
 MongoDB, MysqlDB
 
 ### ⚡ Connect with me:
