@@ -1,5 +1,5 @@
 ### Hello 👋
 
 <br />
-I am very interested in Web and Blockchain industry as a fullstack developer
+I am ready to contribute on your projects
 <br />
